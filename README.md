@@ -47,9 +47,8 @@ How to apply Flexbox and CSS Grid effectively
 
 How to enhance user interfaces with JavaScript
 
-# View Website [https://retro-product-microsite.netlify.app/]
-
-
 The importance of cross-browser testing and validation
+
+# View Website [https://retro-product-microsite.netlify.app/]
 
 Best practices for organizing front-end projects
